@@ -50,3 +50,5 @@ bjn://meeting/fch6utb5ehmpwtuzd5j24eh264r3je9g48p24wkfdhjnyw31edtp6vv4cmh3m8hg60
 
 ## Dependencies
 This script uses [stesla/base32](https://rubygems.org/gems/base32) with the [alphabet](https://github.com/agnoster/base32-js/blob/v0.0.6/lib/base32.js#L6) from [agnoster/base32-js](https://www.npmjs.com/package/base32).
+
+You can [test your base-32](https://output.jsbin.com/sigeva/1) with the reference library used by the Blue Jeans desktop app.
